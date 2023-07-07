@@ -1,6 +1,7 @@
 0x00. Advanced HTML
 
-Resources
+Resources:
+
 Read or watch:
 
 1. [HTML 5.2](https://intranet.alxswe.com/rltoken/3ZeSykXeV9rQhzFiW5GHcg)
