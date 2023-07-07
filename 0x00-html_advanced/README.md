@@ -15,10 +15,13 @@ Read or watch:
 
 
 Sitemap of the project
+
 ![HTML](https://github.com/simpsonismade24d/alx-frontend/assets/111156398/bec775b4-d6d7-438c-b3e9-ac2f2e4d1c7b)
 
 
+
 Wireframe of Techium project
+
 
 ![wireframe](https://github.com/simpsonismade24d/alx-frontend/assets/111156398/4b8eb6f7-ba2b-42da-8cf6-88423c3855c1)
 
