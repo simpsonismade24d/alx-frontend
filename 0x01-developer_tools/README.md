@@ -1,4 +1,4 @@
-##0x01. Developer tools
+**0x01. Developer tools**
 
 ![README](https://github.com/simpsonismade24d/alx-frontend/assets/111156398/fbe9e7ab-127c-42fd-81a5-09af1f5ebf96)
 
