@@ -1,6 +1,6 @@
 **0x02. Advanced CSS**
 
-**PROJECT CONCEPT**
+**USING THESE CONCEPTS**
 ![Concepts](https://github.com/simpsonismade24d/alx-frontend/assets/111156398/bcb4c95c-f240-41b8-9487-e8672995969b)
 
 . [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
